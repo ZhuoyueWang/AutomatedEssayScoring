@@ -1,5 +1,7 @@
 #Automate Essay Scoring System
 
+This system is inspired by the Kaggle competition:
+https://www.kaggle.com/c/asap-aes/data
 
 
 Automated essay scoring system is the use of specialized computer programs to assign grades
