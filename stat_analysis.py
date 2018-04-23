@@ -68,5 +68,3 @@ for curr in essay_arr:
     sentence_count = len(re.split(r'[.!?]+', content))
     curr.sentence_count = sentence_count
     curr.avg_sentence_len = word_count/sentence_count
-
-print(essay_arr[9000].avg_sentence_len)
