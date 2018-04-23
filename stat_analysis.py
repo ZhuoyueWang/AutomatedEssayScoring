@@ -18,9 +18,9 @@ class Essay:
          self.predicted_score = score
 
 essay_arr = []
+count = 0
 with open('training_set_rel3.tsv', 'r', newline='', encoding='utf-8', errors='ignore') as fd:
     rd = csv.reader(fd, delimiter='\t')
-    count = 0
     for row in rd:
         if count != 0:
             curr_id = int(row[0])
@@ -29,19 +29,19 @@ with open('training_set_rel3.tsv', 'r', newline='', encoding='utf-8', errors='ig
             curr_score = 0.0
             if curr_set == 1:
                 curr_score = (int(row[6])/12)*100
-            if curr_set == 2:
+            elif curr_set == 2:
                 curr_score = 0.5*((int(row[6])/6)*100+(int(row[9])/4)*100)
-            if curr_set == 3:
+            elif curr_set == 3:
                 curr_score = (int(row[6])/3)*100
-            if curr_set == 4:
+            elif curr_set == 4:
                 curr_score = (int(row[6])/3)*100
-            if curr_set == 5:
+            elif curr_set == 5:
                 curr_score = (int(row[6])/4)*100
-            if curr_set == 6:
+            elif curr_set == 6:
                 curr_score = (int(row[6])/4)*100
-            if curr_set == 7:
+            elif curr_set == 7:
                 curr_score = (int(row[6])/30)*100
-            if curr_set == 8:
+            elif curr_set == 8:
                 curr_score = (int(row[6])/60)*100
             curr_essay = Essay(curr_id, curr_set, curr_content, curr_score)
             essay_arr.append(curr_essay)
@@ -52,7 +52,6 @@ for curr in essay_arr:
     words = content.split()
     word_count = 0
     long_word_count = 0
-
     for w in words:
         num_letter = 0
         for c in w:
