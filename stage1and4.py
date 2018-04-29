@@ -2,6 +2,17 @@ import csv
 import re
 from nltk import word_tokenize, pos_tag
 from string import punctuation
+import nltk
+from nltk import CFG
+import nltk.data
+
+grammar = "NP: {<IN>?<IN>?<RB>?<DT>?<JJ>*<NN>}"
+grammar = """
+	NP:   {<IN>?<IN>?<RB>?<DT>?<PRP>?<JJ.*>*<NN.*>+<IN>?<JJ>?<NN>?<CC>?<NN>?}
+	CP:   {<JJR|JJS>}
+	VP: {<VB.*>}
+	COMP: {<DT>?<NP><RB>?<VP><DT>?<CP><THAN><DT>?<NP>}
+	"""
 
 
 class Essay:
@@ -82,3 +93,74 @@ for essay in essay_arr:
     results.write("\n")
 print("stage 1 done")
 #results.close()
+
+#####Stage 4
+#grammar = nltk.data.load('grammars/large_grammars/atis.cfg')
+def extract_ideas(t, inp, ivp):
+    try:
+        t.label
+    except AttributeError:
+        return
+    else:
+        if t._label == "NP":
+            # print "t._label : " + t._label
+            # print "t[0] : " + str(t[0])
+            temp = []
+            for child in t:
+                npw_ = str(child[0])
+                npt_ = str(child[1])
+                # print "npw_ : " + npw_
+                # print "child[1] : " + str(child[1])
+                #TODO : HERE, ADD ONLY Nouns and adjective
+                if npt_ == "NP" or npt_ == "JJ" or npt_ == "NNS" or npt_ == "NN":
+                    temp.append(npw_)
+                else:
+                    print("Not appending " + npw_ + "because it is a " + npt_)
+            inp.append(temp)
+        if t._label == "VP":
+            # print "t_label : " + t._label
+            # print "t[0] : " + str(t[0])
+            temp = []
+            for child in t:
+                vpw_ = str(child[0])
+                # print vpw_
+                temp.append(vpw_)
+            ivp.append(temp)
+        for child in t:
+            extract_ideas(child, inp, ivp)
+    return [inp, ivp]
+
+ideas_np = []
+ideas_vp = []
+for essay in essay_arr:
+    esstxt = essay.essay_content
+    esstxt = re.sub(r'(\@)([A-Za-z]*)([\W]*[\d]*[\W]*)(\s)', " ", esstxt)
+    sent_detector = nltk.data.load('tokenizers/punkt/english.pickle')
+    sents = sent_detector.tokenize(esstxt.strip())
+    for sent in sents:
+        words = word_tokenize(sent)
+        tagged_words = pos_tag(words)
+        cp = nltk.RegexpParser(grammar)
+        result = cp.parse(tagged_words)
+        inp = []
+        ivp = []
+        inp, ivp = extract_ideas(result, inp, ivp)
+        ideas_np.append(inp)
+        ideas_vp.append(ivp)
+#print(ideas_np)
+#print(ideas_vp)
+
+key_ideas = []
+print("Key Ideas:")
+for nps in ideas_np:
+    for nptuples in nps:
+        # print "-",
+        # for wnps in nptuples:
+        #     # print wnps
+        for nptuple in nptuples:
+            # nptxt = "".join(str(r) for v in nptuples for r in v)
+            nptxt = "".join(nptuple)
+            if not nptxt in key_ideas and not len(nptuple) == 0:
+                key_ideas.append(nptxt.lower())
+    # print "\n"
+print(" ".join(key_ideas))
