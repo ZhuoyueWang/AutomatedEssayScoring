@@ -16,7 +16,7 @@ grammar = """
 
 
 class Essay:
-     def __init__(self, id, set, content, score, word_count = 0, long_word_count = 0, sentence_count= 0, avg_sentence_len = 0.0):
+     def __init__(self, id, set, content, score, word_count = 0, long_word_count = 0, sentence_count= 0, avg_sentence_len = 0.0, key_ideas = []):
          self.essay_id = id
          self.essay_set = set
          self.essay_content = content
@@ -25,6 +25,7 @@ class Essay:
          self.long_word_count = long_word_count
          self.sentence_count = sentence_count
          self.avg_sentence_len = avg_sentence_len
+         self.key_ideas = key_ideas
 
      def printProfile(self):
          print("Essay ID: {}\nEssay set: {}\nEssay predict score: {}\nEssay word count: {}\nEssay long word count: {}\n".format(self.essay_id, self.essay_set, self.word_count, self.long_word_count))
@@ -94,7 +95,7 @@ for essay in essay_arr:
 print("stage 1 done")
 #results.close()
 
-#####Stage 4
+#####Stage 4 and 5
 #grammar = nltk.data.load('grammars/large_grammars/atis.cfg')
 def extract_ideas(t, inp, ivp):
     try:
@@ -103,36 +104,29 @@ def extract_ideas(t, inp, ivp):
         return
     else:
         if t._label == "NP":
-            # print "t._label : " + t._label
-            # print "t[0] : " + str(t[0])
             temp = []
             for child in t:
                 npw_ = str(child[0])
                 npt_ = str(child[1])
-                # print "npw_ : " + npw_
-                # print "child[1] : " + str(child[1])
-                #TODO : HERE, ADD ONLY Nouns and adjective
                 if npt_ == "NP" or npt_ == "JJ" or npt_ == "NNS" or npt_ == "NN":
                     temp.append(npw_)
                 else:
-                    print("Not appending " + npw_ + "because it is a " + npt_)
+                    '''print("Not appending " + npw_ + "because it is a " + npt_)'''
             inp.append(temp)
         if t._label == "VP":
-            # print "t_label : " + t._label
-            # print "t[0] : " + str(t[0])
             temp = []
             for child in t:
                 vpw_ = str(child[0])
-                # print vpw_
                 temp.append(vpw_)
             ivp.append(temp)
         for child in t:
             extract_ideas(child, inp, ivp)
     return [inp, ivp]
 
-ideas_np = []
-ideas_vp = []
+
 for essay in essay_arr:
+    ideas_np = []
+    ideas_vp = []
     esstxt = essay.essay_content
     esstxt = re.sub(r'(\@)([A-Za-z]*)([\W]*[\d]*[\W]*)(\s)', " ", esstxt)
     sent_detector = nltk.data.load('tokenizers/punkt/english.pickle')
@@ -147,20 +141,20 @@ for essay in essay_arr:
         inp, ivp = extract_ideas(result, inp, ivp)
         ideas_np.append(inp)
         ideas_vp.append(ivp)
+    curr_key_ideas = []
+    print("Key Ideas in essay {}:".format(essay.essay_id))
+    for nps in ideas_np:
+        for nptuples in nps:
+            # print "-",
+            # for wnps in nptuples:
+            #     # print wnps
+            for nptuple in nptuples:
+                # nptxt = "".join(str(r) for v in nptuples for r in v)
+                nptxt = "".join(nptuple)
+                if not nptxt in curr_key_ideas and not len(nptuple) == 0:
+                    curr_key_ideas.append(nptxt.lower())
+    print(",".join(curr_key_ideas))
+    essay.key_ideas = curr_key_ideas
+
 #print(ideas_np)
 #print(ideas_vp)
-
-key_ideas = []
-print("Key Ideas:")
-for nps in ideas_np:
-    for nptuples in nps:
-        # print "-",
-        # for wnps in nptuples:
-        #     # print wnps
-        for nptuple in nptuples:
-            # nptxt = "".join(str(r) for v in nptuples for r in v)
-            nptxt = "".join(nptuple)
-            if not nptxt in key_ideas and not len(nptuple) == 0:
-                key_ideas.append(nptxt.lower())
-    # print "\n"
-print(" ".join(key_ideas))
