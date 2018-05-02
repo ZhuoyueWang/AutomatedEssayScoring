@@ -34,6 +34,9 @@ class Essay:
          return [self.essay_id, self.essay_set, self.essay_content, self.predicted_score, self.word_count, self.long_word_count, self.sentence_count, self.avg_sentence_len]
 
 
+
+######Stage 1
+
 essay_arr = []
 count = 0
 with open('dataset/training_set_rel3.tsv', 'r', newline='', encoding='utf-8', errors='ignore') as fd:
@@ -94,6 +97,18 @@ for essay in essay_arr:
     results.write("\n")
 print("stage 1 done")
 #results.close()
+
+
+
+
+
+######Stage 2
+
+
+
+
+
+
 
 #####Stage 4 and 5
 #grammar = nltk.data.load('grammars/large_grammars/atis.cfg')
