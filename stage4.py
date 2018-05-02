@@ -11,6 +11,8 @@ from sklearn.decomposition import TruncatedSVD
 from sklearn.random_projection import sparse_random_matrix
 from scipy import spatial
 import sys, getopt
+import io
+
 
 class LSA(object):
     def __init__(self, stopwords, ignorechars):
@@ -43,9 +45,10 @@ def performLSA(essay_fn, data_fn, ifesstxt=False):
     esstxts = []
     svParams = []
     '''Get perfect essays'''
-    with open('dataset/'+data_fn, 'rb') as f:
+    with io.open(data_fn, encoding="ISO-8859-1") as f:
         perfect_essays = f.readlines()
-    esstxts.append(" ".join(perfect_essays))
+        all = " ".join(perfect_essays)
+    esstxts.append(all)
 
     if ifesstxt:
         test_essay = essay_fn

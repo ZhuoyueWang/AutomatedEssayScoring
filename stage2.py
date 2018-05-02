@@ -9,6 +9,7 @@ import numpy as np
 import sys, getopt
 from string import punctuation
 import math
+import io
 
 class LSA(object):
     def __init__(self, stopwords, ignorechars):
@@ -79,7 +80,7 @@ def scoreSYN(essay_fn, data_fn, ifesstxt=False):
     esstxts = []
     svParams = []
     '''Get perfect essays'''
-    with open('dataset/'+data_fn, 'rb') as f:
+    with io.open(data_fn, encoding="ISO-8859-1") as f:
         perfect_essays = f.readlines()
     esstxts.append(" ".join(perfect_essays))
 

@@ -5,6 +5,7 @@ from nltk import word_tokenize, pos_tag
 from string import punctuation
 import nltk.data
 import sys, getopt
+import io
 
 class Essay:
     'Common base class for all essays'
@@ -80,7 +81,7 @@ def getPerfectStat(perfect_essays):
 def performSA(essay_fn, data_fn, ifesstxt=False):
     svParams = []
     '''Get perfect essays'''
-    with open('dataset/'+data_fn, 'rb') as f:
+    with io.open(data_fn, encoding="ISO-8859-1") as f:
         perfect_essays = f.readlines()
     # esstxts.append(" ".join(perfect_essays))
 
@@ -88,7 +89,7 @@ def performSA(essay_fn, data_fn, ifesstxt=False):
         test_essay = essay_fn
     else:
         '''Get the essay to be graded'''
-        with open(essay_fn, 'rb') as f:
+        with io.open(essay_fn, encoding="ISO-8859-1") as f:
             test_essay = f.read()
     ignorechars = ''',:'!@'''
 

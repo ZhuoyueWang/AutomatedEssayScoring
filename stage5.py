@@ -12,6 +12,7 @@ from scipy import spatial
 from nltk import word_tokenize, pos_tag
 import re
 import sys, getopt
+import io
 
 test_essay = "@ORGANIZATION1, Computers are great tools and a great piece of modern technology. Almost every family has them. About @PERCENT1 of my class has computers. So many people have them because their helpful and another current learning resource. Also it's a gr"
 
@@ -40,8 +41,8 @@ def extract_ideas(t, inp, ivp):
         if t._label == "NP":
             temp = []
             for child in t:
-                npw_ = str(child[0])
-                npt_ = str(child[1])
+                npw_ = ''.join(child[0]).encode('utf-8')
+                npt_ = ''.join(child[1]).encode('utf-8')
                 #TODO : HERE, ADD ONLY Nouns and adjective
                 if npt_ == "NP" or npt_ == "JJ" or npt_ == "NNS" or npt_ == "NN":
                     temp.append(npw_)
@@ -49,7 +50,7 @@ def extract_ideas(t, inp, ivp):
         if t._label == "VP":
             temp = []
             for child in t:
-                vpw_ = str(child[0])
+                vpw_ = ''.join(child[0]).encode('utf-8')
                 # print vpw_
                 temp.append(vpw_)
             ivp.append(temp)
@@ -133,14 +134,14 @@ def scoreDiscourse(essay_fn, data_fn, ifesstxt=False):
     esstxts = []
     svParams = []
     '''Get perfect essays'''
-    with open('dataset/' + data_fn, 'rb') as f:
+    with io.open(data_fn, encoding="ISO-8859-1") as f:
         perfect_essays = f.readlines()
 
     if ifesstxt:
         test_essay = essay_fn
     else:
         '''Get the essay to be graded'''
-        with open(essay_fn, 'rb') as f:
+        with io.open(essay_fn, encoding="ISO-8859-1") as f:
             test_essay = f.read()
     ignorechars = ''',:'!@'''
 

@@ -10,6 +10,7 @@ from sklearn.feature_extraction.text import TfidfTransformer
 import sys, getopt
 from nltk import word_tokenize, pos_tag
 import re
+import io
 
 transformer = TfidfTransformer(smooth_idf=False)
 
@@ -70,7 +71,7 @@ def check_flags(t, nNPflag, nVPflag):
             nVPflag = flags[1]
     return [nNPflag, nVPflag]
 
-    
+
 
 def get_type1_errors(esstxt):
     'Incomplete sentence'
@@ -109,7 +110,7 @@ def scoreSYNERR(essay_fn, ifesstxt=False):
     if ifesstxt:
         test_essay = essay_fn
     else:
-        with open(essay_fn, 'rb') as f:
+        with io.open(essay_fn, encoding="ISO-8859-1") as f:
             test_essay = f.read()
     nerrs = get_syntax_errors(test_essay)
     return (12-nerrs*0.4)

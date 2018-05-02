@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import warnings
 import time
 import pickle
-
+import io
 warnings.filterwarnings(action="ignore", module="scipy", message="^internal gelsd")
 
 def randPartition(alldata_X, alldata_Y, _FRACTION):
@@ -42,6 +42,7 @@ def main(argv):
     except getopt.GetoptError:
         print 'CalibrateUES.py -i <inputfile> -d <datafile>'
         sys.exit(2)
+    DataFileName = None
     for opt, arg in opts:
         if opt == '-h':
             print 'CalibrateUES.py -i <inputfile> -d <datafile>'
@@ -50,7 +51,7 @@ def main(argv):
             EssayFileName = arg
         elif opt in ("-d", "--dfile"):
             DataFileName = arg
-    f = open('dataset/Set1Complete.csv', 'rb')
+    f = io.open('dataset/Set1Complete.csv', 'rb')
     count = 0.
     beforeStart = time.time()
     try:
@@ -63,8 +64,8 @@ def main(argv):
                 seam_score = stage4.performLSA(ess_text, DataFileName, ifesstxt=True)
                 sam_score = stage1.performSA(ess_text, DataFileName, ifesstxt=True)
                 synan_score = stage2.scoreSYN(ess_text, DataFileName, ifesstxt=True)
-                disam_score = stage5.scoreDiscourse(ess_text, DataFileName, ifesstxt=True)
                 synerr_score = stage3.scoreSYNERR(ess_text, ifesstxt=True)
+                disam_score = stage5.scoreDiscourse(ess_text, DataFileName, ifesstxt=True)
                 data_X.append([seam_score, sam_score, synan_score, disam_score, synerr_score])
                 data_Y.append(ess_score_r1+ess_score_r2)
             count +=1
