@@ -22,7 +22,7 @@ def main(argv):
             EssayFileName = arg
         elif opt in ("-d", "--dfile"):
             DataFileName = arg
-    f = open('../Dataset/Set1Complete.csv', 'rb')
+    f = open('dataset/Set1Complete.csv', 'rb')
     fui = open("result.txt", 'w')
     calibrator = pickle.load(open("calibrated_model.sav", 'rb'))
     count = 0.
@@ -45,9 +45,10 @@ def main(argv):
                 predicted_score = int(calibrator.predict(np.array([seam_score, sam_score, synan_score, disam_score, synerr_score])))
                 actual_score = ess_score_r1 + ess_score_r2
                 print "Predicted : ", predicted_score, " |  Actual : ", actual_score,
-                fui.write("Predicted : ", predicted_score, " |  Actual : ", actual_score)
+                fui.write("Predicted : {} |  Actual : {}\n".format(predicted_score, actual_score))
                 if float(predicted_score) == float(actual_score):
                     numCorrect += 1
+                    fui.write( "  |  Correct Prediction ! -- \n")
                     print "  |  Correct Prediction ! -- ",
                 err_val += math.pow((predicted_score-actual_score),2)
                 print count * 100 / 1782, "% Complete.. | Est. Time Remaining : ", ((time.time() - beforeStart) * (
@@ -58,13 +59,12 @@ def main(argv):
         mse = err_val / count
         rmse = math.sqrt(mse)
         # print numCorrect, 9
-        fui.write("MSE : ", mse)
         print "MSE : ", mse
         print "RMSE : ", rmse
         print "QWK : ", float(numCorrect)/float(count)
-        fui.write("MSE : ", mse)
-        fui.write("RMSE : ", rmse)
-        fui.write("QWK : ", float(numCorrect)/float(count))
+        fui.write("MSE : {}\n".format(mse))
+        fui.write("RMSE : {}\n".format(rmse))
+        fui.write("QWK : {}\n".format(float(numCorrect)/float(count)))
 
 
 
