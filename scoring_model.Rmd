@@ -84,6 +84,9 @@ rf_mod_tst_rmse = rmse(rf_mod_tst_pred, scores_tst$Total_Score)
 ```
 
 
+
+
+
 ```{r}
 results_q3 = data.frame(
   name = c("Linear Regression Model", "KNN Model", "Random Forest Model"),
@@ -94,10 +97,10 @@ colnames(results_q3) = c("Model type", "Accuracy", "RMSE")
 kable_styling(kable(results_q3, format = "html", digits = 3), full_width = FALSE)
 ```
 
+
 We can see that the Linear Regression Model has 98.9% accuracy, which has a really good performance.
-
-
 the linear regression model information:
+
 
 ```{r}
 summary(lm_mod)

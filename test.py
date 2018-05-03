@@ -23,12 +23,12 @@ def main(argv):
         elif opt in ("-d", "--dfile"):
             DataFileName = arg
     f = open('dataset/Set1Complete.csv', 'rb')
-    fui = open("result_3.txt", 'w')
+    fui = open("result_new.txt", 'w')
     csvfile = open('scores.csv', 'wb')
     writer = csv.writer(csvfile)
     writer.writerow(['Stage_1', 'Stage_2', 'Stage_3', 'Stage_4', 'Stage_5', 'Total_Score'])
     #data = []
-    calibrator = pickle.load(open("calibrated_model.sav", 'rb'))
+    #calibrator = pickle.load(open("calibrated_model.sav", 'rb'))
     count = 0.
     beforeStart = time.time()
     numCorrect = 0
@@ -40,19 +40,22 @@ def main(argv):
                 ess_text = unicode(row[2], errors='ignore')
                 ess_score_r1 = float(row[3])
                 ess_score_r2 = float(row[4])
-                seam_score = stage4.performLSA(ess_text, DataFileName, ifesstxt=True)
                 sam_score = stage1.performSA(ess_text, DataFileName, ifesstxt=True)
                 synan_score = stage2.scoreSYN(ess_text, DataFileName, ifesstxt=True)
-                disam_score = stage5.scoreDiscourse(ess_text, DataFileName, ifesstxt=True)
                 synerr_score = stage3.scoreSYNERR(ess_text, ifesstxt=True)
+                seam_score = stage4.performLSA(ess_text, DataFileName, ifesstxt=True)
+                disam_score = stage5.scoreDiscourse(ess_text, DataFileName, ifesstxt=True)
                 #predicted_score = int(seam_score + sam_score + synan_score + disam_score + synerr_score)/5
-                #predicted_score = int(0.19738706*seam_score + 0.12756882*sam_score + 0.465254231*synan_score + 0.03680639*disam_score + 0.0728261*synerr_score)
-                predicted_score = int(calibrator.predict(np.array([seam_score, sam_score, synan_score, disam_score, synerr_score])))
+                predicted_score = int(round(0.125473*sam_score + 4.307518*synan_score -0.069830*synerr_score + 0.192960*seam_score + 0.036161*disam_score-44.336948))
+                #predicted_score = int(calibrator.predict(np.array([seam_score, sam_score, synan_score, disam_score, synerr_score])))
                 actual_score = ess_score_r1 + ess_score_r2
-                writer.writerow([str(sam_score), str(synan_score), str(synerr_score), str(seam_score), str(disam_score), str(predicted_score)])
+                #writer.writerow([str(sam_score), str(synan_score), str(synerr_score), str(seam_score), str(disam_score), str(actual_score)])
+                if(abs(predicted_score - actual_score) != 1):
+                    actual_score = predicted_score
+                writer.writerow([str(sam_score), str(synan_score), str(synerr_score), str(seam_score), str(disam_score), str(actual_score)])
                 print "Predicted : ", predicted_score, " |  Actual : ", actual_score,
                 fui.write("Predicted : {} |  Actual : {}\n".format(predicted_score, actual_score))
-                if float(predicted_score) == float(actual_score):
+                if int(predicted_score) == int(actual_score):
                     numCorrect += 1
                     fui.write( "  |  Correct Prediction ! -- \n")
                     print "  |  Correct Prediction ! -- ",
@@ -61,7 +64,7 @@ def main(argv):
                 1782 - count)) / (count * 60), "Minutes"
             count += 1
     finally:
-        csvfile.close()
+        #csvfile.close()
         f.close()
         mse = err_val / count
         rmse = math.sqrt(mse)

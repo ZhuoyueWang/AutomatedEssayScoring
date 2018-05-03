@@ -1,0 +1,2904 @@
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 7.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 9 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 8.0
+Predicted : 6 |  Actual : 7.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 10 |  Actual : 10
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 10 |  Actual : 10
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 5.0
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 7.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 7.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 7.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 7.0
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 9 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 8.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 6 |  Actual : 7.0
+Predicted : -1 |  Actual : -1
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 6 |  Actual : 7.0
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 5 |  Actual : 6.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 10 |  Actual : 10
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 8.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 5 |  Actual : 5
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 5 |  Actual : 5
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 10 |  Actual : 11.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 7.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 10 |  Actual : 10
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 9 |  Actual : 8.0
+Predicted : 8 |  Actual : 7.0
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 7.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 7.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 10 |  Actual : 10
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 4 |  Actual : 4
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 6 |  Actual : 7.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 9 |  Actual : 8.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 10 |  Actual : 10
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 4 |  Actual : 4
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 7.0
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 7.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 7.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 7 |  Actual : 6.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 6 |  Actual : 7.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 7.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 5 |  Actual : 4.0
+Predicted : 8 |  Actual : 7.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 9 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 8.0
+Predicted : 8 |  Actual : 7.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 8.0
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 7.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 10 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 7.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 7.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 7.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 6 |  Actual : 7.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 8.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 9 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 6 |  Actual : 5.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 8.0
+Predicted : 9 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 5 |  Actual : 6.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 5 |  Actual : 6.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 7.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 8.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 5 |  Actual : 5
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 5 |  Actual : 5
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 9 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 7.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 7.0
+Predicted : 9 |  Actual : 8.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 5 |  Actual : 6.0
+Predicted : 5 |  Actual : 5
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 8.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 7.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 8.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 7.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 9 |  Actual : 8.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 8.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 5 |  Actual : 5
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 5.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 6 |  Actual : 5.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 5 |  Actual : 6.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 9 |  Actual : 8.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 8.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 7 |  Actual : 6.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 8 |  Actual : 7.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 8.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 7.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 7.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 8 |  Actual : 7.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 5.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 4 |  Actual : 4
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 7.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 5 |  Actual : 4.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 9 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 8.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 7.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 4 |  Actual : 4
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 7.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 7.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 7.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 10 |  Actual : 10
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 9 |  Actual : 8.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 8.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 8.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 8.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 8.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 9 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 7.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 5 |  Actual : 6.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 6 |  Actual : 7.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 7.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 6 |  Actual : 5.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 5 |  Actual : 5
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 7.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 7.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 7.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 7.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 5 |  Actual : 5
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 9 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 5.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 5 |  Actual : 5
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 7 |  Actual : 6.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 7.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 7.0
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 6 |  Actual : 6
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 9 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 8.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 9
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 7 |  Actual : 7
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 9.0
+Predicted : 7 |  Actual : 8.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 6 |  Actual : 5.0
+Predicted : 9 |  Actual : 10.0
+Predicted : 8 |  Actual : 9.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 9 |  Actual : 8.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+Predicted : 8 |  Actual : 8
+  |  Correct Prediction ! -- 
+Predicted : 5 |  Actual : 5
+  |  Correct Prediction ! -- 
+Predicted : 8 |  Actual : 7.0
+MSE : 0.372757847534
+RMSE : 0.610538981175
+QWK : 0.62668161435
