@@ -1,0 +1,62 @@
+---
+title: "Automated_Scoring_model"
+output: html_document
+---
+
+```{r}
+library(MASS)
+library(caret)
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+library(mlbench)
+library(ISLR)
+library(ellipse)
+library(randomForest)
+library(gbm)
+library(glmnet)
+library(rpart)
+library(rpart.plot)
+library(klaR)
+library(gam)
+library(e1071)
+```
+
+```{r}
+rmse = function(actual, predicted) {
+  sqrt(mean((actual - predicted) ^ 2))
+}
+```
+
+```{r}
+accuracy = function(predicted, actual) {
+  mean(actual == predicted)
+}
+```
+
+```{r}
+set.seed(668399367)
+scores = read_csv("scores.csv")
+```
+
+```{r}
+index = createDataPartition(scores$Total_Score, p = 0.75, list = FALSE)
+scores_trn = scores[index, ]
+scores_tst = scores[-index, ]
+```
+
+
+```{r}
+q1_mod_3 = train(
+  Total_Score ~ ., data = scores_trn,
+  method = "rf",
+  trControl = trainControl(method = "cv", number = 5)
+)
+q1_mod_3_tst_pred = predict(q1_mod_3, newdata = scores_tst)
+q1_mod_3_tst_accr = accuracy(q1_mod_3_tst_pred, scores_tst$Total_Score)
+```
+
+```{r}
+rmse(q1_mod_3_tst_pred, scores_tst$Total_Score)
+accuracy(round(q1_mod_3_tst_pred), scores_tst$Total_Score)
+```

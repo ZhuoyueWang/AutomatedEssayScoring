@@ -24,6 +24,10 @@ def main(argv):
             DataFileName = arg
     f = open('dataset/Set1Complete.csv', 'rb')
     fui = open("result_3.txt", 'w')
+    csvfile = open('scores.csv', 'wb')
+    writer = csv.writer(csvfile)
+    writer.writerow(['Stage_1', 'Stage_2', 'Stage_3', 'Stage_4', 'Stage_5', 'Total_Score'])
+    #data = []
     calibrator = pickle.load(open("calibrated_model.sav", 'rb'))
     count = 0.
     beforeStart = time.time()
@@ -45,6 +49,7 @@ def main(argv):
                 #predicted_score = int(0.19738706*seam_score + 0.12756882*sam_score + 0.465254231*synan_score + 0.03680639*disam_score + 0.0728261*synerr_score)
                 predicted_score = int(calibrator.predict(np.array([seam_score, sam_score, synan_score, disam_score, synerr_score])))
                 actual_score = ess_score_r1 + ess_score_r2
+                writer.writerow([str(sam_score), str(synan_score), str(synerr_score), str(seam_score), str(disam_score), str(predicted_score)])
                 print "Predicted : ", predicted_score, " |  Actual : ", actual_score,
                 fui.write("Predicted : {} |  Actual : {}\n".format(predicted_score, actual_score))
                 if float(predicted_score) == float(actual_score):
@@ -56,6 +61,7 @@ def main(argv):
                 1782 - count)) / (count * 60), "Minutes"
             count += 1
     finally:
+        csvfile.close()
         f.close()
         mse = err_val / count
         rmse = math.sqrt(mse)
