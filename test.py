@@ -23,7 +23,7 @@ def main(argv):
         elif opt in ("-d", "--dfile"):
             DataFileName = arg
     f = open('dataset/Set1Complete.csv', 'rb')
-    fui = open("result.txt", 'w')
+    fui = open("result_3.txt", 'w')
     calibrator = pickle.load(open("calibrated_model.sav", 'rb'))
     count = 0.
     beforeStart = time.time()
@@ -41,7 +41,8 @@ def main(argv):
                 synan_score = stage2.scoreSYN(ess_text, DataFileName, ifesstxt=True)
                 disam_score = stage5.scoreDiscourse(ess_text, DataFileName, ifesstxt=True)
                 synerr_score = stage3.scoreSYNERR(ess_text, ifesstxt=True)
-                # predicted_score = int(seam_score + sam_score + synan_score + disam_score + synerr_score)/5
+                #predicted_score = int(seam_score + sam_score + synan_score + disam_score + synerr_score)/5
+                #predicted_score = int(0.19738706*seam_score + 0.12756882*sam_score + 0.465254231*synan_score + 0.03680639*disam_score + 0.0728261*synerr_score)
                 predicted_score = int(calibrator.predict(np.array([seam_score, sam_score, synan_score, disam_score, synerr_score])))
                 actual_score = ess_score_r1 + ess_score_r2
                 print "Predicted : ", predicted_score, " |  Actual : ", actual_score,
