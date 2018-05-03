@@ -15,11 +15,20 @@ library(ellipse)
 library(randomForest)
 library(gbm)
 library(glmnet)
-library(rpart)
-library(rpart.plot)
 library(klaR)
-library(gam)
-library(e1071)
+```
+
+```{r}
+set.seed(668399367)
+scores = read_csv("scores.csv")
+```
+
+We split the original score dataset into two parts, that makes training and testing dataset for modeling.
+
+```{r}
+index = createDataPartition(scores$Total_Score, p = 0.75, list = FALSE)
+scores_trn = scores[index, ]
+scores_tst = scores[-index, ]
 ```
 
 ```{r}
@@ -34,29 +43,63 @@ accuracy = function(predicted, actual) {
 }
 ```
 
+Linear Regression Model:
+
 ```{r}
-set.seed(668399367)
-scores = read_csv("scores.csv")
+lm_mod = train(
+  Total_Score ~ ., data = scores_trn,
+  method = "lm",
+  trControl = trainControl(method = "cv", number = 5)
+)
+lm_mod_tst_pred = predict(lm_mod, newdata = scores_tst)
+lm_mod_tst_accr = accuracy(round(lm_mod_tst_pred), scores_tst$Total_Score)
+lm_mod_tst_rmse = rmse(lm_mod_tst_pred, scores_tst$Total_Score)
 ```
 
+
+KNN Model:
+
 ```{r}
-index = createDataPartition(scores$Total_Score, p = 0.75, list = FALSE)
-scores_trn = scores[index, ]
-scores_tst = scores[-index, ]
+knn_mod = train(
+  Total_Score ~ ., data = scores_trn,
+  method = "knn",
+  trControl = trainControl(method = "cv", number = 5), tuneGrid = expand.grid(k = seq(1, 15, by = 2))
+)
+knn_mod_tst_pred = predict(knn_mod, newdata = scores_tst)
+knn_mod_tst_accr = accuracy(round(knn_mod_tst_pred), scores_tst$Total_Score)
+knn_mod_tst_rmse = rmse(knn_mod_tst_pred, scores_tst$Total_Score)
 ```
 
+Random Forest Model:
 
 ```{r}
-q1_mod_3 = train(
+rf_mod = train(
   Total_Score ~ ., data = scores_trn,
   method = "rf",
   trControl = trainControl(method = "cv", number = 5)
 )
-q1_mod_3_tst_pred = predict(q1_mod_3, newdata = scores_tst)
-q1_mod_3_tst_accr = accuracy(q1_mod_3_tst_pred, scores_tst$Total_Score)
+rf_mod_tst_pred = predict(rf_mod, newdata = scores_tst)
+rf_mod_tst_accr = accuracy(round(rf_mod_tst_pred), scores_tst$Total_Score)
+rf_mod_tst_rmse = rmse(rf_mod_tst_pred, scores_tst$Total_Score)
 ```
 
+
 ```{r}
-rmse(q1_mod_3_tst_pred, scores_tst$Total_Score)
-accuracy(round(q1_mod_3_tst_pred), scores_tst$Total_Score)
+results_q3 = data.frame(
+  name = c("Linear Regression Model", "KNN Model", "Random Forest Model"),
+  accuracy = c(lm_mod_tst_accr, knn_mod_tst_accr, rf_mod_tst_accr),
+  rmse = c(lm_mod_tst_rmse, knn_mod_tst_rmse, rf_mod_tst_rmse)
+)
+colnames(results_q3) = c("Model type", "Accuracy", "RMSE")
+kable_styling(kable(results_q3, format = "html", digits = 3), full_width = FALSE)
 ```
+
+We can see that the Linear Regression Model has 98.9% accuracy, which has a really good performance.
+
+
+the linear regression model information:
+
+```{r}
+summary(lm_mod)
+```
+
